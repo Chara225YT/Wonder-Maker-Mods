@@ -11,3 +11,5 @@ Mods:
   - Super Somari Bros Modpack v0.6.1 - Super Somari Bros. (by chara225yt)
   - The Lost Levels Theme - SMB2 (JP)/SMB: The Lost Levels Mod (by rubice)
   - super mario all stars - Super mario all stars mod (by ectorh)
+
+To play the game you must have Wonder Engine downloaded (https://www.mediafire.com/file/ndq6fyjpw3ix2wa/wonder-engine-early-access-windows-x64.rar/file).
